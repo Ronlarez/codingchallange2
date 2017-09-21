@@ -1,0 +1,19 @@
+.Header {
+  position: absolute;
+  width: 100%;
+  height: 300px;
+  background-color: blue;
+}
+h1{
+  position: absolute;
+  top: 100px;
+  left: 500px;
+  font-size: 4em;
+}
+
+p{
+  position: absolute;
+  top: 200px;
+  left: 650px;
+  font-size: 2em;
+}
